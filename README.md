@@ -22,7 +22,7 @@ a web application that takes a user's birthday and calculates the day of the wee
  MM -  is the Month
 
  DD - is the Day of the month 
- * output to be given should be Akan name
+ * output to be given should be day you were born and Akan name
 
 
 ### Contact Information
