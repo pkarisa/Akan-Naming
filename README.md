@@ -13,6 +13,16 @@ a web application that takes a user's birthday and calculates the day of the wee
 * Markdown
 
 ### BDD used to display input and output
+* input
+ CC - is the century digits. For example 2000 has CC = 2000
+
+ YY - is the Year digits (2000 has YY = 2000)
+
+ MM -  is the Month
+
+ DD - is the Day of the month 
+ * output to be given should be Akan name
+
 
 ### Contact Information
 If you have any question or contributions, please email me at [fkarisa@gmail.com](fkarisa@gmail.com)
