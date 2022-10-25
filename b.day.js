@@ -1,5 +1,5 @@
 const submit = () => {
-    // retrieve elements
+    // retrieve elements for the task
     var dateElement = document.getElementById("date")
     const genderElement = document.getElementById("gender")
     
