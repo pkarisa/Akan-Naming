@@ -45,8 +45,8 @@ body{
     font-size: 18px;
     font-family: 'Quattrocento', serif;
   }
-  .form-check-label{
-    color: rgb(255, 255, 255);
+  form-check-label{
+    color: rgb(220, 233, 79);
   }
   input[type="radio"] {
     -webkit-transform: scale(1.5);
@@ -83,7 +83,7 @@ body{
 
       margin-right: auto;
 
-      width:20%;
+      width:15%;
 
       }
 
