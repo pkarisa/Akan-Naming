@@ -43,11 +43,8 @@
   form-check-label{
     color: rgb(220, 233, 79);
   }
-  input[type="radio"] {
-    -webkit-transform: scale(1.5);
-    transform: scale(1.5);
-  }
-  img {
+ 
+    img {
 
     display: block;
 
@@ -85,6 +82,9 @@
       position: relative;
       margin: auto;
 
+    }
+    p.one {
+      word-spacing: 10px;
     }
 
     
