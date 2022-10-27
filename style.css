@@ -1,93 +1,78 @@
+h1 {
+  font-family: "Gugi", cursive;
+  font-weight: bolder;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 12px;
+  padding-bottom: 2px;
+  font-size: 48px;
+  text-shadow: 2px 2px 5px rgb(12, 10, 10);
+}
+.page-footer {
+  background-color: rgb(0, 0, 0, 0.8);
+  width: 100%;
+}
+.overlay {
+  background-color: rgb(0, 0, 0, 0.5);
+  margin-left: 25%;
+  margin-right: 16%;
+  opacity: 0.9;
+  border-radius: 10px;
+}
 
-   
-   h1 {
-     font-family: 'Gugi', cursive;
-     font-weight: bolder;
-     text-align: center;
-     margin-bottom: 0px;
-     margin-top: 12px;
-     padding-bottom: 2px;
-     font-size: 48px;
-     text-shadow: 2px 2px 5px rgb(12, 10, 10);
-     
-   }
-   .page-footer{
-     background-color: rgb(0,0,0,0.8); 
-     width: 100%;
-   }
-   .overlay{
-     background-color: rgb(0,0,0,0.5);
-     margin-left: 25%;
-     margin-right: 16%;
-     opacity: 0.9;
-     border-radius: 10px;
-   }
+p {
+  background-color: rgba(88, 123, 248, 0.5);
+  margin-left: 25%;
+  margin-right: 16%;
+  opacity: 0.9;
+  color: rgb(19, 17, 17);
+}
+form {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+form-option {
+  color: rgb(209, 223, 61);
+  font-weight: 600;
+  font-size: 18px;
+  font-family: "Quattrocento", serif;
+}
+form-check-label {
+  color: rgb(220, 233, 79);
+}
 
-   p{background-color: rgba(88, 123, 248, 0.5);
-    margin-left: 25%;
-    margin-right: 16%;
-    opacity: 0.9;
-    color: rgb(19, 17, 17);
-   
-   }
-   form{
-    margin-bottom: 20px;
-    padding-bottom: 20px;
-  }
-  form-option{
-    color: rgb(209, 223, 61);
-    font-weight: 600;
-    font-size: 18px;
-    font-family: 'Quattrocento', serif;
-  }
-  form-check-label{
-    color: rgb(220, 233, 79);
-  }
- 
-    img {
+img {
+  display: block;
 
-    display: block;
+  margin-left: auto;
 
-    margin-left: auto;
+  margin-right: auto;
 
-    margin-right: auto;
+  width: 25%;
+}
+form {
+  display: block;
 
-    width:25%;
+  margin-left: auto;
 
-    }
- form {
+  margin-right: auto;
 
-    display: block;
+  width: 26%;
+}
 
-    margin-left: auto;
+button {
+  display: block;
 
-    margin-right: auto;
+  margin-left: auto;
 
-    width:26%;
+  margin-right: auto;
 
-    }
-
-    button{
-
-      display: block;
-
-      margin-left: auto;
-
-      margin-right: auto;
-
-      width:15%;
-
-      }
-    .vertical-center {
-      position: relative;
-      margin: auto;
-
-    }
-    p.one {
-      word-spacing: 10px;
-    }
-
-    
-
-    
-
+  width: 15%;
+}
+.vertical-center {
+  position: relative;
+  margin: auto;
+}
+p.one {
+  word-spacing: 10px;
+}
